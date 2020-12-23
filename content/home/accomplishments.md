@@ -25,7 +25,7 @@ date_format: Jan 2006
 item:
 - certificate_url: https://www.coursera.org/account/accomplishments/certificate/KXRFFW7WS2KK
   date_end: ""
-  date_start: "2019-12-1"
+  date_start: "2019-12-01"
   description: "Enhanced my understanding of Hyperparameter tuning, Regularization and Optimization"
   organization: Coursera
   organization_url: https://www.coursera.org
