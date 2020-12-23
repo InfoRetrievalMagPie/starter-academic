@@ -10,7 +10,7 @@ role: Master Student in Artificial Intelligence
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: UIUC
+- name: University of Illinois at Urbana-Champaign
   url: https://illinois.edu/
 
 # Short bio (displayed in user profile at end of posts)
