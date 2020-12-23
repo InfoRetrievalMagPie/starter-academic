@@ -1,26 +1,26 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Jianyu Wang(Randy)
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Master Student in Artificial Intelligence
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Stanford University
-  url: https://www.stanford.edu/
+- name: UIUC
+  url: https://illinois.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include Multimedia Intelligence, Graph Mining, and Information Retrieval. 
 
 # Interests to show in About widget
 interests:
-- Artificial Intelligence
-- Computational Linguistics
+- Multimedia Intelligence
 - Information Retrieval
+- Graph Mining
 
 # Education to show in About widget
 education:
