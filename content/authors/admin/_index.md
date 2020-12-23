@@ -70,7 +70,7 @@ email: "jianyuwang.work@outlook.com"
 highlight_name: false
 ---
 
-Jianyu Wang is now graduate from NJUPT. His research interests include Multimedia Intelligence, Information Retrieval, and Graph Mining. He recently attends the MMC group in NLPR, which develops applications related to Multimedia Computing. 
+Jianyu Wang is now graduating from NJUPT. His research interests include Multimedia Intelligence, Information Retrieval, and Graph Mining. He recently attends the MMC group in NLPR, which develops applications related to Multimedia Computing. 
 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.

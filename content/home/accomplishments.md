@@ -26,25 +26,41 @@ item:
 - certificate_url: https://www.coursera.org/account/accomplishments/certificate/KXRFFW7WS2KK
   date_end: ""
   date_start: "2019-12-1"
-  description: ""
+  description: "Enhanced my understanding of Hyperparameter tuning, Regularization and Optimization"
   organization: Coursera
   organization_url: https://www.coursera.org
-  title: Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization
-  url: ""
-- certificate_url: https://www.edx.org
+  title: 'Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization'
+  url: https://www.coursera.org/learn/deep-neural-network
+- certificate_url: https://www.coursera.org/account/accomplishments/certificate/ELWG6F956U8G
   date_end: ""
-  date_start: "2018-03-01"
-  description: Formulated informed blockchain models, hypotheses, and use cases.
-  organization: edX
-  organization_url: https://www.edx.org
-  title: Blockchain Fundamentals
-  url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-- certificate_url: https://www.datacamp.com
-  date_end: "2017-12-21"
-  date_start: "2017-07-01"
-  description: ""
-  organization: DataCamp
-  organization_url: https://www.datacamp.com
-  title: 'Object-Oriented Programming in R: S3 and R6 Course'
-  url: ""
+  date_start: "2020-01-01"
+  description: "Gained a deeper understanding of CNN, including several model variants"
+  organization: Coursera
+  organization_url: https://www.coursera.org
+  title: 'Convolutional Neural Networks'
+  url: https://www.coursera.org/learn/convolutional-neural-networks
+- certificate_url: https://www.coursera.org/account/accomplishments/certificate/UZ3NWHDDDNVC
+  date_end: ""
+  date_start: "2019-12-01"
+  description: "Understood the basic concepts of NN"
+  organization: Coursera
+  organization_url: https://www.coursera.org
+  title: 'Neural Networks and Deep Learning'
+  url: https://www.coursera.org/learn/neural-networks-deep-learning
+- certificate_url: https://www.coursera.org/account/accomplishments/certificate/GB34UJNMVVKX
+  date_end: ""
+  date_start: "2020-08-01"
+  description: "Understood the basic mathematical theories related to ML"
+  organization: Coursera
+  organization_url: https://www.coursera.org
+  title: '机器学习实战上(Machine Learning Foundations)---Mathematical Foundations'
+  url: https://www.coursera.org/learn/ntumlone-mathematicalfoundations
+- certificate_url: https://www.coursera.org/account/accomplishments/certificate/Q7744ECVW3XR
+  date_end: ""
+  date_start: "2019-12-01"
+  description: "Practical ML"
+  organization: Coursera
+  organization_url: https://www.coursera.org
+  title: 'Structuring Machine Learning Projects'
+  url: https://www.coursera.org/learn/machine-learning-projects
 ---
